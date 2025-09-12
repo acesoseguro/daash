@@ -256,7 +256,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://go.goatpayments.com.br/omyrmxtp3c';
+    window.location.href = 'https://pay.comprasmarketplace.com/checkout/c565d4c0-0d5b-4256-83ac-df7007bdeb90';
   });
 
 }
