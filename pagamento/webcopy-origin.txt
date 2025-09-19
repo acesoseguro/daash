@@ -1,0 +1,100 @@
+Uri: https://d1frh8xn9wll8b.cloudfront.net/products-images/1757441118718-i99rtmfnz2pljnhdnpffyb1uv.webp
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\products-images\1757441118718-i99rtmfnz2pljnhdnpffyb1uv.webp
+Content Type: image/webp
+
+Uri: https://pay.pagsafey.store/68c06c83aff5504011410aec
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\68c06c83aff5504011410aec.html
+Content Type: text/html
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/134-55dd1fa66aae3b62.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\134-55dd1fa66aae3b62.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/173-16a28ab7a106c638.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\173-16a28ab7a106c638.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/441-527552de7d2f876e.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\441-527552de7d2f876e.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/580-69b8277f2f380e8c.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\580-69b8277f2f380e8c.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/795d4814-f0fa062bec795e7e.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\795d4814-f0fa062bec795e7e.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/8e1d74a4-0c19e46736886af7.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\8e1d74a4-0c19e46736886af7.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/919-f55ad0903cadd4fc.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\919-f55ad0903cadd4fc.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/927-80274cde8e29044b.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\927-80274cde8e29044b.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/9c4e2130-78bcc837e69af337.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\9c4e2130-78bcc837e69af337.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/app/[id]/page-ba6e4e614389858a.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\app\[id]\page-ba6e4e614389858a.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/app/global-error-619f8fca6bb88471.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\app\global-error-619f8fca6bb88471.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/app/layout-f8328f6c05ac04d6.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\app\layout-f8328f6c05ac04d6.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/ee560e2c-3b7da12dd36bd970.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\ee560e2c-3b7da12dd36bd970.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/fd9d1056-5fed218a4572e934.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\fd9d1056-5fed218a4572e934.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/main-app-6e16ce86a0927cd1.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\main-app-6e16ce86a0927cd1.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/chunks/webpack-6703a1bddc3105a5.js
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\chunks\webpack-6703a1bddc3105a5.js
+Content Type: application/javascript
+
+Uri: https://pay.pagsafey.store/_next/static/css/812353cbbe607c61.css
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\css\812353cbbe607c61.css
+Content Type: text/css
+
+Uri: https://pay.pagsafey.store/_next/static/css/e528b57ce62882b7.css
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\css\e528b57ce62882b7.css
+Content Type: text/css
+
+Uri: https://pay.pagsafey.store/_next/static/media/blueCheck.6215da56.svg
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\media\blueCheck.6215da56.svg
+Content Type: image/svg+xml
+
+Uri: https://pay.pagsafey.store/_next/static/media/pix.fc2a4017.svg
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\media\pix.fc2a4017.svg
+Content Type: image/svg+xml
+
+Uri: https://pay.pagsafey.store/_next/static/media/safe.2680cafb.svg
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\_next\static\media\safe.2680cafb.svg
+Content Type: image/svg+xml
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+File Name: C:\Downloaded Web Sites\pay.pagsafey.store\beacon.min.js\vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Content Type: text/javascript
+
