@@ -649,7 +649,7 @@ function setupUnlockVideo() {
 
 function finalRedirect() {
     // Redirecionar para a página final
-    window.location.href = 'https://go.goatpayments.com.br/omyrmxtp3c';
+    window.location.href = 'https://go.tribopay.com.br/o8vbcrsa9i';
 }
 
 // Funções de validação de CPF (mantidas para uso futuro)
