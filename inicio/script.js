@@ -649,7 +649,7 @@ function setupUnlockVideo() {
 
 function finalRedirect() {
     // Redirecionar para a página final
-    window.location.href = 'https://pay.pagsafey.store/68c06c83aff5504011410aec';
+    window.location.href = 'https://go.goatpayments.com.br/omyrmxtp3c';
 }
 
 // Funções de validação de CPF (mantidas para uso futuro)
